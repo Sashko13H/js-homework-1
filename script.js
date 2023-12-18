@@ -23,9 +23,9 @@
 // let b = "13cvb";
 // let c = "12.9sxdcfgv";
 // вивести в консоль тип
-// console.log(typeof Number(a));
-// console.log(typeof parseInt(b));
-// console.log(typeof parseFloat(c));
+//console.log(Number(a), typeof Number(a));
+//console.log(parseInt(b), typeof parseInt(b));
+//console.log(parseFloat(c), typeof parseFloat(c));
 
 //***4***
 //Зробіть, щоб 0.1 + 0.2 = 0.3
